@@ -34,4 +34,4 @@ Contribuições são bem-vindas! Sinta-se à vontade para abrir issues ou enviar
 
 
 
-Desenvolvido com ❤️ por [Marcos Correa](https://github.com/correamarcos) .
+Desenvolvido por [Marcos Correa](https://github.com/correamarcos) .
